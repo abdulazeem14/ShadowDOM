@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a67d12e8-633a-491e-aa31-0691a25b1d70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/BaseWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/LibraryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/WebUIPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/DAMWebUIDemo.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runners/TestRunnerDAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepClass/LibraryStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcommerceAT/src/main/java/org/pageObjects/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/CSV Files/7151_CSV.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/CSV Files/CSV_3D.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/CSV Files/CSV_Ecom.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/CSV Files/CSV_FlatShots.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/Source_Images/3D_Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/Source_Images/Destination_Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/Source_Images/Ecom_Image.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/Source_Images/Flat_Shots_Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Load Testing/src/main/java/Source_Images/Source_Image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/out/production/DSLearningPath/ArrayRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/out/production/DSLearningPath/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/out/production/DSLearningPath/GCDRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/out/production/DSLearningPath/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/src/ArrayRotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/src/GCDRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/src/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSLearningPath/src/SingleNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructureLearning/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructureLearning/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EcommerceAT/src/main/java/concepts/MiniCooper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EcommerceAT/src/main/java/concepts/MiniCooper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EcommerceAT/src/main/java/concepts/Porche.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EcommerceAT/src/main/java/concepts/Porche.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2G1SO7g8tnwjkeQaaC6Dg9vnUTZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.JunitTest">
+    <configuration name="Feature: DAMWebUIDemo" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/DAMWebUIDemo.feature" />
+      <option name="GLUE" value="StepClass" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="DAMWEBUI" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: DAMWebUIDemo" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DAMWEBUI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.ShadowDOMTEST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DAMWEBUI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="METHOD_NAME" value="ShadowDOMTEST" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerDAM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DAMWEBUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners.TestRunnerDAM" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JunitTest" />
+        <item itemvalue="Cucumber Java.Feature: DAMWebUIDemo" />
+        <item itemvalue="JUnit.JunitTest.ShadowDOMTEST" />
+        <item itemvalue="JUnit.TestRunnerDAM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a67d12e8-633a-491e-aa31-0691a25b1d70" name="Changes" comment="" />
+      <created>1665554563153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665554563153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
